@@ -1,0 +1,21 @@
+[2023-12-25T15:17:56.613+0000] {processor.py:157} INFO - Started process (PID=35) to work on /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:17:56.615+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/get_track_images.py for tasks to queue
+[2023-12-25T15:17:56.620+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:17:56.620+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:17:58.069+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_track_images']) retrieved from /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:17:58.111+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:17:58.110+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-12-25T15:17:58.125+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:17:58.125+0000] {dag.py:3696} INFO - Setting next_dagrun for get_track_images to None, run_after=None
+[2023-12-25T15:17:58.153+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/get_track_images.py took 1.545 seconds
+[2023-12-25T15:18:28.913+0000] {processor.py:157} INFO - Started process (PID=46) to work on /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:18:28.915+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/get_track_images.py for tasks to queue
+[2023-12-25T15:18:28.917+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:28.917+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:18:29.865+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_track_images']) retrieved from /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:18:29.888+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:29.888+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-12-25T15:18:29.899+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:29.899+0000] {dag.py:3696} INFO - Setting next_dagrun for get_track_images to None, run_after=None
+[2023-12-25T15:18:29.922+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/get_track_images.py took 1.011 seconds
+[2023-12-25T15:19:00.485+0000] {processor.py:157} INFO - Started process (PID=56) to work on /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:19:00.486+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/get_track_images.py for tasks to queue
+[2023-12-25T15:19:00.489+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:19:00.488+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:19:00.934+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_track_images']) retrieved from /opt/airflow/dags/get_track_images.py
+[2023-12-25T15:19:00.956+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:19:00.956+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-12-25T15:19:00.969+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:19:00.969+0000] {dag.py:3696} INFO - Setting next_dagrun for get_track_images to None, run_after=None
+[2023-12-25T15:19:00.987+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/get_track_images.py took 0.505 seconds

@@ -1,0 +1,21 @@
+[2023-12-25T15:17:56.587+0000] {processor.py:157} INFO - Started process (PID=34) to work on /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:17:56.589+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/get_tracks_from_artist.py for tasks to queue
+[2023-12-25T15:17:56.595+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:17:56.593+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:17:56.848+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_tracks_from_artist']) retrieved from /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:17:56.971+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:17:56.970+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-12-25T15:17:56.999+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:17:56.999+0000] {dag.py:3696} INFO - Setting next_dagrun for get_tracks_from_artist to None, run_after=None
+[2023-12-25T15:17:57.046+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/get_tracks_from_artist.py took 0.466 seconds
+[2023-12-25T15:18:27.436+0000] {processor.py:157} INFO - Started process (PID=44) to work on /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:18:27.439+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/get_tracks_from_artist.py for tasks to queue
+[2023-12-25T15:18:27.444+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:27.442+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:18:27.711+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_tracks_from_artist']) retrieved from /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:18:27.766+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:27.765+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-12-25T15:18:27.792+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:27.792+0000] {dag.py:3696} INFO - Setting next_dagrun for get_tracks_from_artist to None, run_after=None
+[2023-12-25T15:18:27.827+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/get_tracks_from_artist.py took 0.404 seconds
+[2023-12-25T15:18:58.211+0000] {processor.py:157} INFO - Started process (PID=54) to work on /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:18:58.213+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/get_tracks_from_artist.py for tasks to queue
+[2023-12-25T15:18:58.216+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:58.215+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:18:58.324+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_tracks_from_artist']) retrieved from /opt/airflow/dags/get_tracks_from_artist.py
+[2023-12-25T15:18:58.364+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:58.364+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-12-25T15:18:58.387+0000] {logging_mixin.py:151} INFO - [2023-12-25T15:18:58.387+0000] {dag.py:3696} INFO - Setting next_dagrun for get_tracks_from_artist to None, run_after=None
+[2023-12-25T15:18:58.418+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/get_tracks_from_artist.py took 0.210 seconds

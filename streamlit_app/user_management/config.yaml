@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    a:
+      email: hahungpt02@gmail.com
+      name: Ha Hung
+      password: $2b$12$a0Quw6nr4dhHTLwQfpvfM.VURFiNl53Xt9BD0U7H6s9.Dohj7y3Qm # Placeholder for hashed password of 'a'
+    b:
+      email: hahungpt02@gmail.com
+      name: Ha Hung 2
+      password: $2b$12$a0Quw6nr4dhHTLwQfpvfM.VURFiNl53Xt9BD0U7H6s9.Dohj7y3Qm # Placeholder for hashed password of 'a'
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized: FALSE
